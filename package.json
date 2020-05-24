@@ -1,0 +1,23 @@
+{
+  "name": "diff-screens",
+  "version": "1.0.0",
+  "description": "画像の差分チェックツール",
+  "main": "diff-screen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://AkitoTsukahara@github.com/AkitoTsukahara/diff-screens.git"
+  },
+  "author": "AkitoTsukahara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AkitoTsukahara/diff-screens/issues"
+  },
+  "homepage": "https://github.com/AkitoTsukahara/diff-screens#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "pixel-diff": "^1.0.1"
+  }
+}

@@ -1,0 +1,7 @@
+node_modules
+/before/*
+/after/*
+/result/*
+!/before/.gitkeep
+!/after/.gitkeep
+!/result/.gitkeep
